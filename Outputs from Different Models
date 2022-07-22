@@ -1,0 +1,13 @@
+Performance:-
+
+1. Linear Regression (Model_1)
+    mean: 5.030437102767305
+    std: 1.060766115829483
+
+2. Decision Tree Regressor (Model_2)
+    mean: 4.233877355248054
+    std: 0.8622808547248737
+    
+3. Random Forest Regressor (Model_3)
+    mean: 3.333281592159074
+    std: 0.7037627023038017
